@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soumya Ranjan Sahu</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A Full Stack Web Developer passionate about building impactful digital experiences</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=soumya-work&label=Profile%20views&color=0e75b6&style=flat" alt="soumya-work" />
@@ -7,48 +7,30 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=soumya-work" alt="soumya-work" />
+    <img src="https://github-profile-trophy.vercel.app/?username=soumya-work&theme=algolia" alt="soumya-work trophies" />
   </a>
 </p>
 
 <p align="left">
-  <a href="https://twitter.com/soumya_work" target="blank">
+  <a href="https://twitter.com/soumya_work" target="_blank">
     <img src="https://img.shields.io/twitter/follow/soumya_work?logo=twitter&style=for-the-badge" alt="soumya_work" />
   </a>
 </p>
 
-- 🔭 I’m currently working on **Full Stack Web Development Projects**
+---
 
-- 🌱 I’m currently learning **Data Visualization in Web Apps**
+### 👨‍💻 About Me
 
-- 👯 I’m looking to collaborate on **Full Stack Web Development Projects**
-
-- 🤝 I’m looking for help with **Full Stack Web Development Projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/soumya-work](https://github.com/soumya-work)
-
-- 💬 Ask me about **React, Next.js, MongoDB, Java and Full Stack Development**
-
-- 📫 How to reach me **soumyaranjansahugcek@gmail.com**
-
-- ⚡ Fun fact **I think I am funny 😆**
+- 🔭 Currently working on **scalable Full Stack Web Development projects**
+- 🌱 Exploring **Data Visualization in Web Apps** to enhance user insights
+- 🤝 Open to collaborating on **frontend-heavy or MERN stack applications**
+- 💬 Ask me about **React, Next.js, MongoDB, Java, Node.js, or REST APIs**
+- 📬 Reach me at: **soumyaranjansahugcek@gmail.com**
+- 🌐 Portfolio: [github.com/soumya-work](https://github.com/soumya-work)
 
 ---
 
-### 🌐 Connect with me:
-
-<p align="left">
-  <a href="https://twitter.com/soumya_work" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soumya_work" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/soumyaranjansahuwork/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Soumya Ranjan Sahu" height="30" width="40" />
-  </a>
-</p>
-
----
-
-### 🛠️ Languages and Tools:
+### 💼 Tech Stack
 
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -103,16 +85,29 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 🚀 Featured Projects
+
+- 🔧 [Dentist Appointment Code Generator](https://github.com/soumya-work/dentist-code-generator)  
+  *Automated web code generation system for dental clinics with dynamic form handling.*
+
+- 📊 [Personal Finance Visualizer](https://github.com/soumya-work/personal-finance-visualizer)  
+  *Next.js app to track and visualize income, expenses, and budgets using charts.*
+
+- 🕺 [Bworkzlive Dance Studio](https://github.com/soumya-work/bworkz-dance-platform)  
+  *Role-based system for scheduling, certification, payments, and Zoom class access.*
+
+---
+
+### 📈 GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumya-work&show_icons=true&locale=en&layout=compact" alt="soumya-work" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumya-work&show_icons=true&locale=en&layout=compact" alt="soumya-work top languages" />
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=soumya-work&show_icons=true&locale=en" alt="soumya-work" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=soumya-work&show_icons=true&locale=en" alt="soumya-work GitHub stats" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumya-work&" alt="soumya-work" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumya-work&" alt="soumya-work GitHub streak" />
 </p>
