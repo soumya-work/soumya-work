@@ -85,18 +85,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-- 🔧 [Dentist Appointment Code Generator](https://github.com/soumya-work/dentist-code-generator)  
-  *Automated web code generation system for dental clinics with dynamic form handling.*
-
-- 📊 [Personal Finance Visualizer](https://github.com/soumya-work/personal-finance-visualizer)  
-  *Next.js app to track and visualize income, expenses, and budgets using charts.*
-
-- 🕺 [Bworkzlive Dance Studio](https://github.com/soumya-work/bworkz-dance-platform)  
-  *Role-based system for scheduling, certification, payments, and Zoom class access.*
-
----
 
 ### 📈 GitHub Stats
 
